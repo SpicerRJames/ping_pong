@@ -19,3 +19,5 @@ function drawCircle(x, y, r, color){
 }
 
 drawCircle(100, 100, 50, "WHITE");
+
+//change
